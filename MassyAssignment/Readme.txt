@@ -8,3 +8,5 @@ Improvements for version 2.0 ;)
 	Make it more responsive. It works for desktops and tablets, but gets a little weird on phone if an image has a long name.
 	Make image details more visually appealing :)
 	Centre images horizontally and vertically in their containers.
+	
+Also, My card kept declining to allow Amazon access for now. So no live site :(
